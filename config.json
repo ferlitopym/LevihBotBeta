@@ -1,0 +1,11 @@
+{	
+	"prefix": "multi", 
+	"defaultSessionName": "bot", 
+	"zeksKey": "pJwXkvgsvIw4DaMy3H4CqHKSBoW",
+	"autoRead": true,
+	"maxLimit": 10,
+	"ownerList": ["6285955372133@s.whatsapp.net"],
+	"apiUrl": "https://api.zeks.xyz",
+	"pack": "Follow IG @levihs_store",
+	"author": "085955372133"
+}
